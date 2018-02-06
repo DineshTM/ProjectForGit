@@ -6,7 +6,7 @@ public class NewClass {
 		// TODO Auto-generated method stub
         System.out.println("This is second class");
         System.out.println("This is second class");
-        
+        System.out.println("This is second class");
 	}
 
 }
