@@ -7,6 +7,7 @@ public class NewClass {
         System.out.println("This is second class");
         System.out.println("This is second class");
         System.out.println("This is second class");
+        System.out.println("This is second class");
 	}
 
 }
